@@ -31,9 +31,9 @@ third, If you know basics about python, we need you to test our library and send
 So, if you have any question, feel free to send me an e-mail: reza.shahnazar@gmail.com  I will do my best to explain anything you need.
 
 ### How exactly can I contribute?
-1- You can fork the project, complete the calculators.md file and send a Pull request.
-2- You can add comments or isuues directly to this repository.
-3- You can send me an e-mail: reza.shahnazar@gmail.com ,and I would try my best to find a suitable way to have your help in this project.
+1. You can fork the project, complete the calculators.md file and send a Pull request.
+2. You can add comments or isuues directly to this repository.
+3. You can send me an e-mail: reza.shahnazar@gmail.com ,and I would try my best to find a suitable way to have your help in this project.
 
 ### Can I contribute by adding codes?
 Of course; However, As codes should have a unified architecture and terminology, I want to prepare a simple documentation about code structures and global terms in order for further usage in coding different parts of the library. So, I would be fascinated to see your codes after I prepare and publish this documentation here.
