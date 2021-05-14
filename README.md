@@ -8,9 +8,12 @@ I am a cardiology resident. I appreciate contributions from coders, medical stud
 
 
 ### What is the roadmap?
-1- making a categorized list of useful medical calculators.
-2- preparing a simple documentation for contributors about code structures and global terminologies.
-3- 
+1. making a categorized list of useful medical calculators.
+2. preparing a simple developers-documentation for contributors about code structures and global terminologies.
+3. preparing the code for the first 5 calculators, and its related users-documentation.
+4. publishing the primary version of the project as an installable python library using recognized package managers.
+5. updating and extending the project regularly by adding more calculators, completing documentations, enhancing previous calculators and fxing possible bugs.
+
 
 ### Can I contribute?
 Of Course!
