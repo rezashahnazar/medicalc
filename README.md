@@ -8,7 +8,7 @@ I am a cardiology resident. I appreciate contributions from coders, medical stud
 
 
 ### What is the roadmap?
-1. making a categorized list of useful medical calculators.
+1. making a categorized list of useful medical calculators. (the "calculators.md" file)
 2. preparing a simple developers-documentation for contributors about code structures and global terminologies.
 3. preparing the code for the first 5 calculators, and its related users-documentation.
 4. publishing the primary version of the project as an installable python library using recognized package managers.
@@ -17,7 +17,7 @@ I am a cardiology resident. I appreciate contributions from coders, medical stud
 
 ### Can I contribute?
 Of Course!
-At this starting point, we are in the 1st step of the roadmap. so, I am trying to make a list of useful calculators in different medical specialities. 
+At this starting point, we are in the 1st step of the roadmap. so, I am trying to make a list of useful calculators in different medical specialities ("calculators.md"). 
 The project might be started by calculators in my medical speciality, "Cardiology" - I am a cardiology resident; However, any contribution for making a more comprehensive list of calculators -or further help in coding , documentation, etc.- would be appreciated.
 
 ### I don't know anything about medicine. can I contribute?
@@ -25,13 +25,13 @@ Of course! The world would be glad to have your help here in the coding procces,
 
 ### I am a medical student/graduate, But I can't help by coding. can I contribute?
 YESS! please help :) !
-first, We need You in completeing our categorized list of calculators.
-second, We need you in preparing a scientific documentation of calculators we make.
-third, If you know basics about python, we need you to test our library and send us feedback.
+1. We need You in completeing our categorized list of calculators. (the "calculators.md" file)
+2. We need you in preparing a scientific documentation of calculators we make.
+3. If you know basics about python, we need you to test our library and send us feedback.
 So, if you have any question, feel free to send me an e-mail: reza.shahnazar@gmail.com  I will do my best to explain anything you need.
 
 ### How exactly can I contribute?
-1. You can fork the project, complete the calculators.md file and send a Pull request.
+1. You can fork the project, add your contribution, then send a Pull request.
 2. You can add comments or isuues directly to this repository.
 3. You can send me an e-mail: reza.shahnazar@gmail.com ,and I would try my best to find a suitable way to have your help in this project.
 
