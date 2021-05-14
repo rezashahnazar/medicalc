@@ -3,7 +3,7 @@
 
 ***
 
-The scope of this project is developing a python library in order to make frequently-used medical calculators easily available for data scientists and developers. The project would be published in package managers as soon as it reaches a useful reliable state.
+The scope of this project is developing a python library in order to make frequently-used medical calculators easily available for data scientists and developers. The project would be published on recognized package managers as soon as it reaches a useful reliable state.
 I am a cardiology resident. I appreciate contributions from coders, medical students/graduates and specialists in diffenet medical majors.
 
 
