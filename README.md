@@ -36,4 +36,4 @@ So, if you have any question, feel free to send me an e-mail: reza.shahnazar@gma
 3. You can send me an e-mail: reza.shahnazar@gmail.com ,and I would try my best to find a suitable way to have your help in this project.
 
 ### Can I contribute by adding codes?
-Of course; However, As codes should have a unified architecture and terminology, I want to prepare a simple documentation about code structures and global terms in order for further usage in coding different parts of the library. So, I would be fascinated to see your codes after I prepare and publish this documentation here.
+Of course; However, As codes should have a unified architecture and terminology, I want to prepare a simple documentation about code structures and global terms in order for further use in coding different parts of the library. So, I would be fascinated to see your codes after I prepare and publish this documentation here.
