@@ -1,4 +1,6 @@
-# medicalc
+# Medicalc 
+### import all medical calculators, simply as a python library
+
 The scope of this project is making a python library in order to make frequently-used medical calculators easily available for data scientists. The project would be published in package managers as soon as it reaches a useful reliable state.
 
 ## Can I contribute?
