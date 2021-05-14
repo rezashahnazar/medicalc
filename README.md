@@ -1,5 +1,5 @@
 # Medicalc 
-## Import medical calculators, simply as python library!
+## Import medical calculators, simply as a python library!
 
 ***
 
