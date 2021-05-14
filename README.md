@@ -18,7 +18,7 @@ I am a cardiology resident. I appreciate contributions from coders, medical stud
 ### Can I contribute?
 Of Course!
 At this starting point, we are in the 1st step of the roadmap. so, I am trying to make a list of useful calculators in different medical specialities. 
-The project might be started by calculators in my Medical Speciality, "Cardiology" - I am a cardiology resident; However, any contribution for making a more comprehensive list of calculators -or further help in coding , documentation, etc.- would be appreciated.
+The project might be started by calculators in my medical speciality, "Cardiology" - I am a cardiology resident; However, any contribution for making a more comprehensive list of calculators -or further help in coding , documentation, etc.- would be appreciated.
 
 ### I don't know anything about medicine. can I contribute?
 Of course! The world would be glad to have your help here in the coding procces, documentation or even editing and testing our codes which is so important and critical. if you had any questions, don't hesitate to send an e-mail to me : reza.shahnazar@gmail.com
